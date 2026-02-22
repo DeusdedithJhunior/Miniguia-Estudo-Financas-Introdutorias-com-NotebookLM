@@ -36,3 +36,6 @@ Outros estudantes podem usar este miniguia para revisar conceitos básicos de fi
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para reutilizar e adaptar o conteúdo para fins educacionais.
+
+---
+Este repositório foi desenvolvido como parte da atividade prática do **bootcamp Bradesco – GenAI & Dados (DIO)**. Além de cumprir os objetivos da entrega, ele pode servir como referência e apoio para outros participantes que desejam revisar conceitos de finanças introdutórias e explorar o uso da IA como ferramenta de aprendizagem ativa.
