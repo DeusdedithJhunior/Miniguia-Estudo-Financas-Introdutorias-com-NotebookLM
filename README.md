@@ -54,12 +54,6 @@ Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa do 
 - **Glossário**: termos como “juros compostos”, “orçamento”, “investimento”.  
 - **Prompts reutilizáveis**: conjunto de perguntas estratégicas para apoiar revisões futuras.  
 
-## ⚙️ Uso da IA
-O NotebookLM foi utilizado para:  
-- Curadoria das fontes.  
-- Criação de perguntas estratégicas.  
-- Teste de variações de prompts.
-
 ## 🚀 Como reutilizar
 Outros estudantes podem usar este miniguia para revisar conceitos básicos de finanças e aplicar os prompts em novos contextos de estudo.  
 
