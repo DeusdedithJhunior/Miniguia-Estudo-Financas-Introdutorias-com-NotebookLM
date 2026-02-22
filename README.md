@@ -1,7 +1,7 @@
 # Miniguia de Estudo em Finanças Introdutórias com NotebookLM
 
 ## 📌 Introdução
-Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa. Ele reúne fontes abertas sobre finanças introdutórias no NotebookLM, com o objetivo de criar um miniguia de estudo que apoie revisões futuras e incentive o uso da IA como ferramenta de aprendizagem crítica e organizada.
+Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa do **bootcamp Bradesco – GenAI & Dados (DIO)**. Ele reúne fontes abertas sobre finanças introdutórias no NotebookLM, com o objetivo de criar um miniguia de estudo que apoie revisões futuras e incentive o uso da IA como ferramenta de aprendizagem crítica e organizada.
 
 ## 🎯 Objetivos de Estudo
 - Compreender conceitos básicos de finanças pessoais.
