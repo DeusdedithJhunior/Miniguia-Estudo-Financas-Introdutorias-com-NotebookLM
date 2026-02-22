@@ -21,7 +21,6 @@ Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa do 
 ---
 
 ## 💡 Variações de Prompts para NotebookLM
-Essas variações ajudam a explorar os mesmos conceitos de diferentes ângulos:
 
 - **Explicação simples**  
   - "Explique em linguagem acessível o que é orçamento familiar e dê um exemplo prático."  
