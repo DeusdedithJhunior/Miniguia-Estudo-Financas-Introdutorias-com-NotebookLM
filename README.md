@@ -1,0 +1,2 @@
+# Miniguia-Estudo-Finanças-Introdutorias-com-NotebookLM
+ Projeto desenvolvido como desafio de aprendizagem ativa. Reúne fontes abertas sobre finanças introdutórias, define objetivos de estudo, elabora perguntas estratégicas e testa variações de prompts no NotebookLM. O resultado é um miniguia com resumos estruturados, glossário de conceitos e conjunto de prompts reutilizáveis para apoiar revisões futuras
