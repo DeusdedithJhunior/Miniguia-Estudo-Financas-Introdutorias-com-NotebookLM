@@ -10,10 +10,14 @@ Este projeto foi desenvolvido como parte de um desafio de aprendizagem ativa. El
 - Testar variações de prompts e registrar respostas com referências.
 
 ## 📚 Fontes Utilizadas
-- [Fonte 1: Introdução às Finanças Pessoais (PDF aberto)](link)
-- [Fonte 2: Artigo sobre orçamento doméstico](link)
-- [Fonte 3: Texto sobre juros compostos](link)
-- (adicione até 5 fontes relevantes)
+- [Banco Central do Brasil – Caderno de Educação Financeira: Gestão de Finanças Pessoais (PDF)](https://www.bcb.gov.br/educacao-financeira)  
+- [Livraria Pública – Apostilas Gratuitas de Fundamentos de Finanças](https://livrariapublica.com/apostilas-financas)  
+- [Artigo introdutório sobre orçamento doméstico – Portal Educação Financeira](https://www.serasa.com.br/educacao-financeira/orcamento-domestico/)  
+- [Texto sobre juros compostos – Investopedia (em português)](https://www.investopedia.com/termo/j/juros-compostos)  
+
+### 🎥 Vídeos Complementares
+- [Finanças Pessoais para Iniciantes: Guia Completo (YouTube)](https://www.youtube.com/watch?v=2hY0xwQjF7g)  
+- [Canal Me Poupe! – Nathalia Arcuri (YouTube)](https://www.youtube.com/@MePoupe)  
 
 ## 🧩 Estrutura do Miniguia
 - **Resumos estruturados**: síntese dos principais tópicos estudados.
